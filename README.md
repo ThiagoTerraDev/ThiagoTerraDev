@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🤘🏽
+## Welcome to my Profile! 🤘🏽
 
  <div>
    <a href="https://github.com/ThiagoTerraDev">
