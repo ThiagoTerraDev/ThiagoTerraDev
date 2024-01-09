@@ -1,9 +1,7 @@
 ## Welcome to my Profile! 🤘🏽
 
  <div>
-   <a href="https://github.com/ThiagoTerraDev">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoTerraDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoTerraDev&layout=compact&langs_count=16&theme=dark"/>  
+   <p>Me chamo Thiago Terra, prazer! Sou pós-graduando em Desenvolvimento Fullstack na PUC-Rio, empenhado em aperfeiçoar minha proficiência em diversas linguagens e tecnologias. Busco aplicar minhas habilidades para superar desafios, me adaptar à qualquer mudança, encontrar soluções viáveis e desenvolver projetos de alto nível e valor.</p>
 
 </div>
 <div style="display: inline_block"><br>
