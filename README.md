@@ -1,7 +1,7 @@
 ## Welcome to my Profile! 🤘🏽
 
  <div>
-   <p>Me chamo Thiago Terra, prazer! Sou pós-graduando em Desenvolvimento Fullstack na PUC-Rio, empenhado em aperfeiçoar minha proficiência em diversas linguagens e tecnologias. Busco aplicar minhas habilidades para superar desafios, me adaptar à qualquer mudança, encontrar soluções viáveis e desenvolver projetos de alto nível e valor.</p>
+   <p>Me chamo Thiago Terra, prazer! Sou pós-graduando em Desenvolvimento Full Stack na PUC-Rio, empenhado em aperfeiçoar minha proficiência em diversas linguagens e tecnologias. Busco aplicar minhas habilidades para superar desafios, me adaptar à qualquer mudança, encontrar soluções viáveis e desenvolver projetos de alto nível e valor.</p>
 
    <p>Entre em contato: thiagoterradev@gmail.com</p>
 
