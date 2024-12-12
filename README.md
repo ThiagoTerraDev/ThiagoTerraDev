@@ -1,10 +1,22 @@
 ## Welcome to my Profile! 🤘🏽
 
  <div>
-   <p>Me chamo Thiago Terra, prazer! Sou pós-graduando em Desenvolvimento Full Stack na PUC-Rio, empenhado em aperfeiçoar minha proficiência em diversas linguagens e tecnologias. Busco aplicar minhas habilidades para superar desafios, me adaptar à qualquer mudança, encontrar soluções viáveis e desenvolver projetos de alto nível e valor.</p>
+   <p>Hi there!
 
-   <p>Entre em contato: thiagoterradev@gmail.com</p>
+My name is Thiago, I’m a Software Engineer, and I’ve been working with the JavaScript stack for a while. I hold a postgraduate degree in Full Stack Development from PUC-RIO and a bachelor's degree in International Relations.
 
+Acquiring knowledge is something that fascinates me. I strive to apply my skills to overcome challenges, adapt to change, design viable solutions, and develop valuable, high-quality projects.
+
+I’m currently working with technologies such as: JavaScript, TypeScript, MySQL, Node.js, React.js, MaterialUI
+
+I’m studying: C#, Docker, MongoDB
+
+I also have experience working with Python.
+
+Feel free to reach out!
+
+Email: thiagoterradev@gmail.com
+</p>
 
 </div>
 <div style="display: inline_block"><br>
